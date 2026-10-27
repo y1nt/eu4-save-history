@@ -1,0 +1,6 @@
+# Local saves and runtime data
+Backups/
+*.eu4
+*.tmp
+*.log
+settings.json
